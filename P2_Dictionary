@@ -1,6 +1,6 @@
 ## PIP259
 ## NAME = 20CE032 GOHIL DAKSHRAJ
-# Github repository link -  
+# Github repository link - https://github.com/DakshGohil22/Dash
 schema1={                         # defining a dictionary
     "name":"CHARUSAT",              # key,value
     "state":"GUJARAT",
