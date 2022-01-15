@@ -1,7 +1,7 @@
 ## PIP259
 ## NAME - 20CE032 GOHIL DAKSHRAJ
 # Github Repository link - https://github.com/DakshGohil22/Dash
-# Code link - https://github.com/DakshGohil22/Dash/edit/main/P2_Set
+# Code link - https://github.com/DakshGohil22/Dash/blob/main/P2_Set
 # A ) Write a Python program to add member(s) in a set and clear a set
 
 from typing import List
