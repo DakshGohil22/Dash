@@ -13,7 +13,7 @@ print(set) # after
 
 # B ) Write a Python program to remove an item from a set if it is present in the set.
 
-set={2021,2022,2020,2019}
+set={2021,2020,2019,2018}
 remove=int(input("Remove from list :"))
 for i in set :
     if(i==remove):
