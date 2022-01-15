@@ -2,10 +2,10 @@
 ## NAME = 20CE032 GOHIL DAKSHRAJ
 # Github repository link - https://github.com/DakshGohil22/Dash
 schema1={                         # defining a dictionary
-    "name":"CHARUSAT",              # key,value
+    "name":"DEPSTAR",              # key,value
     "state":"GUJARAT",
     "year":2021,
-    "Grade":"A",
+    "Grade":"AA",
 }
 #in
 key=input("Enter Key : ")
