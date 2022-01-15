@@ -1,6 +1,7 @@
 ## PIP259
 ## NAME = 20CE032 GOHIL DAKSHRAJ
 # Github repository link - https://github.com/DakshGohil22/Dash
+# Code link - https://github.com/DakshGohil22/Dash/blob/main/P2_Dictionary
 schema1={                         # defining a dictionary
     "name":"DEPSTAR",              # key,value
     "state":"GUJARAT",
