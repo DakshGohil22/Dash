@@ -1,0 +1,12 @@
+t = int(input())
+for i in range(t):
+    m= input()
+    n= len(m)
+    if n% 2 == 0:
+        a, b = m[:n//2], m[n//2:]
+    else:
+        a, b = m[:n//2], m[n//2+1:]
+    if sorted(a) == sorted(b):
+        print("YES")
+    else:
+        print("NO")
